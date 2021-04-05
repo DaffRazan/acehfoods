@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AcehFoods</string>
+    <string name="acehfoods_name">Aceh Foods</string>
+    <string name="acehfoods_detail">Detail Aceh Foods</string>
+    <string name="about">Tentang</string>
+    <string name="profil">Icon profil</string>
+    <string name="developer">Muhammad Daffa Razan</string>
+    <string name="email">daffarazan17@gmail.com</string>
+    <string name="tv_name_received">Nama makanan diterima</string>
+    <string name="tv_detail_received">Detail makanan diterima</string>
+    <string name="detail_makanan">Detail</string>
+    <string name="acehfoods">AcehFoods</string>
+    <string name="img_contentDesc">Foto Daffa</string>
+</resources>
